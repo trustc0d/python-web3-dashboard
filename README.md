@@ -53,11 +53,20 @@ mkdir templates
 mkdir static
 ```
 
-## CODE DOCUMENTATION
+## CODE DOCUMENTATION && SNAPS
+
+
+![1](https://user-images.githubusercontent.com/60231189/218648915-a2ace757-4a48-427f-96e5-8860a1e8334d.png)
+![2](https://user-images.githubusercontent.com/60231189/218648924-088e9642-400f-4f17-9a61-3f28e86ce566.png)
+![3](https://user-images.githubusercontent.com/60231189/218648927-74549c21-d633-42f9-a906-3f08cd995dff.png)
+![4](https://user-images.githubusercontent.com/60231189/218648929-208e502d-61ee-4619-9f9e-ea33ea8e581d.png)
+![5](https://user-images.githubusercontent.com/60231189/218648930-66586b46-62ce-494b-b9c5-8ab7f1066e3b.png)
+![6](https://user-images.githubusercontent.com/60231189/218648934-e97067e0-50e6-41da-a5fc-b01d5f5384ff.png)
+![7](https://user-images.githubusercontent.com/60231189/218648940-91a825a0-6476-49ad-bd56-abfe2598189e.png)
+![8](https://user-images.githubusercontent.com/60231189/218648941-1ee8d092-7645-4b24-9e21-4d6e88fcbf1d.png)
+
 
 ```
-
-
 @app.route("/tx/<string:hash>")
 def get_transaction_data(hash):
     """_summary_  
